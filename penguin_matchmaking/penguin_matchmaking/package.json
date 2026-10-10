@@ -1,0 +1,9 @@
+{
+  "name": "penguin-matchmaking",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal HTTP party-code lookup service for a Godot ENet game",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
